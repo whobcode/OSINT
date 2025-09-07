@@ -1,0 +1,6 @@
+name = "arf-cloudflare"
+compatibility_date = "2024-05-01"
+pages_build_output_dir = "public"
+
+[ai]
+binding = "AI"

@@ -12,3 +12,8 @@ node_modules
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# cloudflare #
+######################
+.wrangler
+wrangler.log
